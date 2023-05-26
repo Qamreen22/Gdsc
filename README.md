@@ -29,4 +29,5 @@ Feel free to reach out to me via the following platforms:
 - LinkedIn: [View LinkedIn](https://www.linkedin.com)
 - GitHub: [View GitHub](https://www.github.com)
 
-![Portfolio Screenshot](https://images.pexels.com/photos/1761279/pexels-photo-1761279.jpeg?cs=srgb&dl=pexels-jacob-colvin-1761279.jpg&fm=jpg)
+![Portfolio Screenshot](1.png)
+![Portfolio Screenshot](2.png)
